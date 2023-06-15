@@ -1,0 +1,48 @@
+.sugestion {
+  grid-area: detalhe;
+  background-color: #f54952ab;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 15px;
+  margin-top: 10px;
+  position: absolute;
+  z-index: 3;
+}
+.detalhes-none {
+  display: none;
+}
+ul {
+  padding: 0px;
+  margin: 0px;
+}
+li {
+  margin: 0px;
+  border-bottom: 1px solid #ffffff;
+  text-emphasis: none;
+  text-decoration: none;
+  list-style-type: none;
+  font-weight: 500;
+  cursor: pointer;
+}
+li:last-child {
+  border-bottom: none;
+  margin-bottom: 10px;
+}
+li:first-child {
+  margin-top: 10px;
+}
+li:hover {
+  background-color: rgba(95, 95, 95, 0.151);
+}
+
+li button {
+  border: none;
+  background-color: rgba(255, 255, 255, 0);
+  font-size: 15px;
+  width: 300px;
+  padding: 10.5px 0px 10.5px 0px;
+  text-align: left;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  cursor: pointer;
+}

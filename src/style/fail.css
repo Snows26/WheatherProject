@@ -1,0 +1,27 @@
+.content-fail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 450px;
+  margin: 0px 40px;
+}
+h1 {
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  word-break: break-word;
+  height: 54px;
+  margin-bottom: 30px;
+}
+span {
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  word-break: break-word;
+  font-weight: 400;
+}
+img {
+  width: 130px;
+}

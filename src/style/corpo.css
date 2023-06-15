@@ -1,0 +1,63 @@
+.corpo {
+  width: 340px;
+  height: 50px;
+  background-color: #f54952;
+  border-radius: 13px;
+  transition: 600ms;
+  position: relative;
+  z-index: 2;
+}
+
+/*  Sub-search  */
+.sub-search {
+  display: grid;
+  justify-content: space-around;
+  grid-template:
+    "img input button" 50px
+    / 45px 250px 45px;
+}
+.sub-search img {
+  width: 26px;
+  margin: 0 auto;
+  grid-area: img;
+  margin-top: 12px;
+}
+.sub-search input {
+  margin-top: 10px;
+  width: 250px;
+  height: 10px;
+  padding: 10px 0px 10px 0px;
+  border: 0px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #f54952;
+  grid-area: input;
+  font-family: "Montserrat", sans-serif;
+}
+.sub-search input::placeholder {
+  color: rgb(255, 255, 255);
+  font-family: "Montserrat", sans-serif;
+}
+.sub-search input:focus {
+  outline: 0px;
+}
+.sub-search button {
+  grid-area: button;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  margin: 0 auto;
+  background-color: #f54952;
+  border: 0px;
+  cursor: pointer;
+  margin-top: 7.5px;
+}
+.sub-search button:hover {
+  background-color: #341671;
+  transition: 600ms;
+}
+.sub-search button img {
+  width: 18px;
+  padding: 0px;
+  margin: 0 auto;
+}

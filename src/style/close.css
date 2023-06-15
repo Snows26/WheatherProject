@@ -1,0 +1,19 @@
+.close {
+  display: flex;
+  justify-content: center;
+  width: 340px;
+  z-index: 1;
+  position: absolute;
+}
+.button-close img {
+  padding: 10px;
+  width: 15px;
+  cursor: pointer;
+  background-color: #f54952;
+  border-radius: 50%;
+}
+.button-close {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
