@@ -1,12 +1,15 @@
-# Wheather Project
+# Aplicativo de Clima-Tempo
 
 Este é um projeto de um aplicativo de clima-tempo desenvolvido em React. Ele permite que você obtenha informações sobre o clima de uma cidade específica ao inserir o nome da cidade no campo de entrada principal.
+
+**[Acesse aqui para ver o aplicativo em funcionamento](https://snows26.github.io/WheatherProject/)**
 
 ## Funcionalidades
 
 - Obtenção de dados climáticos em tempo real de uma cidade.
 - Exibição da temperatura atual, clima, velocidade do vento e outros dados relevantes.
 - Interface de usuário intuitiva e responsiva.
+- Animações utilizando a biblioteca Spring do React.
 
 ## Tecnologias utilizadas
 
@@ -34,3 +37,4 @@ Durante o desenvolvimento deste projeto, adquiri conhecimentos valiosos, incluin
 - Utilização da biblioteca Spring para criar animações atraentes e suaves.
 
 Espero que este projeto tenha sido útil para você e que você possa aplicar esses conhecimentos em suas futuras aplicações. Sinta-se à vontade para contribuir, reportar problemas ou sugerir melhorias.
+
