@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/ProjectWheather/static/css/main.4c717981.css",
-    "main.js": "/ProjectWheather/static/js/main.9596ae17.js",
-    "static/js/787.01f48bee.chunk.js": "/ProjectWheather/static/js/787.01f48bee.chunk.js",
-    "static/media/moon and cloud.png": "/ProjectWheather/static/media/moon and cloud.e068f63bf89202c5da91.png",
-    "static/media/moon.png": "/ProjectWheather/static/media/moon.6453fcebcb3f444a142e.png",
-    "static/media/wind.png": "/ProjectWheather/static/media/wind.495f5e9ff84445939d2e.png",
-    "static/media/snowy.png": "/ProjectWheather/static/media/snowy.9dc3f1724f316d86ef18.png",
-    "static/media/cloud and sun.png": "/ProjectWheather/static/media/cloud and sun.c619163e0f62279a5afc.png",
-    "static/media/sun and rain.png": "/ProjectWheather/static/media/sun and rain.1fda5c3ecda50cbfdc62.png",
-    "static/media/broken cloud.png": "/ProjectWheather/static/media/broken cloud.218a2fd99b7bb2420f2b.png",
-    "static/media/storm.png": "/ProjectWheather/static/media/storm.355c907be60345a92f1d.png",
-    "static/media/local.png": "/ProjectWheather/static/media/local.5941a481a647e685ca99.png",
-    "static/media/rain cloud.png": "/ProjectWheather/static/media/rain cloud.61a80850042de90a6eec.png",
-    "static/media/sun.png": "/ProjectWheather/static/media/sun.9e7effa18f5364032f7f.png",
-    "static/media/seta.png": "/ProjectWheather/static/media/seta.aa5eb28ccf16643b3dca.png",
-    "static/media/cloud.png": "/ProjectWheather/static/media/cloud.215847d44f37e3fdbbe7.png",
-    "index.html": "/ProjectWheather/index.html",
-    "main.4c717981.css.map": "/ProjectWheather/static/css/main.4c717981.css.map",
-    "main.9596ae17.js.map": "/ProjectWheather/static/js/main.9596ae17.js.map",
-    "787.01f48bee.chunk.js.map": "/ProjectWheather/static/js/787.01f48bee.chunk.js.map"
+    "main.css": "/WheatherProject/static/css/main.4c717981.css",
+    "main.js": "/WheatherProject/static/js/main.54370619.js",
+    "static/js/787.01f48bee.chunk.js": "/WheatherProject/static/js/787.01f48bee.chunk.js",
+    "static/media/moon and cloud.png": "/WheatherProject/static/media/moon and cloud.e068f63bf89202c5da91.png",
+    "static/media/moon.png": "/WheatherProject/static/media/moon.6453fcebcb3f444a142e.png",
+    "static/media/wind.png": "/WheatherProject/static/media/wind.495f5e9ff84445939d2e.png",
+    "static/media/snowy.png": "/WheatherProject/static/media/snowy.9dc3f1724f316d86ef18.png",
+    "static/media/cloud and sun.png": "/WheatherProject/static/media/cloud and sun.c619163e0f62279a5afc.png",
+    "static/media/sun and rain.png": "/WheatherProject/static/media/sun and rain.1fda5c3ecda50cbfdc62.png",
+    "static/media/broken cloud.png": "/WheatherProject/static/media/broken cloud.218a2fd99b7bb2420f2b.png",
+    "static/media/storm.png": "/WheatherProject/static/media/storm.355c907be60345a92f1d.png",
+    "static/media/local.png": "/WheatherProject/static/media/local.5941a481a647e685ca99.png",
+    "static/media/rain cloud.png": "/WheatherProject/static/media/rain cloud.61a80850042de90a6eec.png",
+    "static/media/sun.png": "/WheatherProject/static/media/sun.9e7effa18f5364032f7f.png",
+    "static/media/seta.png": "/WheatherProject/static/media/seta.aa5eb28ccf16643b3dca.png",
+    "static/media/cloud.png": "/WheatherProject/static/media/cloud.215847d44f37e3fdbbe7.png",
+    "index.html": "/WheatherProject/index.html",
+    "main.4c717981.css.map": "/WheatherProject/static/css/main.4c717981.css.map",
+    "main.54370619.js.map": "/WheatherProject/static/js/main.54370619.js.map",
+    "787.01f48bee.chunk.js.map": "/WheatherProject/static/js/787.01f48bee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c717981.css",
-    "static/js/main.9596ae17.js"
+    "static/js/main.54370619.js"
   ]
 }
